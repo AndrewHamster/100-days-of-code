@@ -17,3 +17,9 @@ BTW, that repository in architecture is a great idea - definitely will use in ne
 Definitely need more practice with java multithreading. Probably going to spend some time tomorrow reading about it. 
 
 **Link to work:** [Repository](https://github.com/AndrewHamster/todo-app-mvp)
+
+### Day 2: January 08, 2018
+
+**Today's Progress**: Added activity and fragment for task detail, learned a bit how to handle navigation in mvp
+
+**Thoughts:** Feel not that much excited as before, but practice makes perfect. Finally holidays are over. Back to work :D
