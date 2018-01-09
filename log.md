@@ -23,3 +23,11 @@ Definitely need more practice with java multithreading. Probably going to spend 
 **Today's Progress**: Added activity and fragment for task detail, learned a bit how to handle navigation in mvp
 
 **Thoughts:** Feel not that much excited as before, but practice makes perfect. Finally holidays are over. Back to work :D
+
+### Day 3: January 09, 2018
+
+**Today's Progress**: Implemented navigation
+
+**Thoughts:** Need to learn how to handle lifecycle. 
+
+**Link to work:** [Repository](https://github.com/AndrewHamster/todo-app-mvp)
