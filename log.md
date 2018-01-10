@@ -31,3 +31,11 @@ Definitely need more practice with java multithreading. Probably going to spend 
 **Thoughts:** Need to learn how to handle lifecycle. 
 
 **Link to work:** [Repository](https://github.com/AndrewHamster/todo-app-mvp)
+
+### Day 4: January 10, 2018
+
+**Today's Progress**: Learned about ways to handle lifecycle. Not that much code - few lines trying to tackle lifecycle problems.
+
+**Thoughts:** Right now for me there is no obvious way to handle configuration change, only robust caching mechanism can help.
+Next thing to do is to add ability to create tasks and store them. Looking towards Room.
+
