@@ -39,3 +39,10 @@ Definitely need more practice with java multithreading. Probably going to spend 
 **Thoughts:** Right now for me there is no obvious way to handle configuration change, only robust caching mechanism can help.
 Next thing to do is to add ability to create tasks and store them. Looking towards Room.
 
+### Day 5: January 12, 2018
+
+**Today's Progress**: Added local storage to repository.
+
+**Thoughts:** Yesterday was unable to write code, so instead i read a bit about decorator pattern. But technically that doesn't count. Today I was busy setting up db layer. Need more understanding of how to manage execution threads for async operations. And probably some kind of DI framework would be a great replacement of hand-written stuff.
+
+**Link to work:** [Repository](https://github.com/AndrewHamster/todo-app-mvp)
